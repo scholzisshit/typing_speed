@@ -1,2 +1,3 @@
-# ABHINAVPROJ
-Abhinav's typing speed test project
+typing_speed_test
+
+typing_speed_test_project
